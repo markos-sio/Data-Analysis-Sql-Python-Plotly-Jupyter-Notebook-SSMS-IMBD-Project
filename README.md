@@ -1,4 +1,6 @@
 SQL and Python Data Analysis Project: Top 1000 IMDB Movies
+To see the full presentation including the Plotly graphs visit: https://nbviewer.org/github/markos-sio/Data-Analysis-Sql-Python-Plotly-Jupyter-Notebook-SSMS-IMBD-Project/blob/main/imbd%20python-sql%20project%20.ipynb
+
 This project involves both SQL and Python data analysis, focusing on the Top 1000 IMDB movies dataset obtained from Kaggle.
 
 1. Data Cleaning:
